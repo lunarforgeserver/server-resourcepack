@@ -1,0 +1,36 @@
+name: Build resource pack zip
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    # Avoid running when the commit is from this workflow itself
+    if: "!startsWith(github.event.head_commit.message, 'Update release.zip')"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up git user for commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Create release.zip from resource pack files
+        run: |
+          rm -f release.zip
+          zip -r release.zip assets pack.mcmeta pack.png
+
+      - name: Commit release.zip if it changed
+        run: |
+          git add release.zip
+          if git diff --cached --quiet; then
+            echo "No changes in release.zip"
+          else
+            git commit -m "Update release.zip"
+            git push
+          fi
