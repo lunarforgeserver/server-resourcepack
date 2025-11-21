@@ -28,9 +28,14 @@ jobs:
           rm -f release.zip
           zip -r release.zip assets pack.mcmeta pack.png
 
+      - name: Compute SHA1 hash
+        run: |
+          # Grab just the hash part and write it into pack.sha1
+          sha1sum release.zip | awk '{print $1}' > pack.sha1
+
       - name: Commit release.zip if it changed
         run: |
-          git add release.zip
+          git add release.zip pack.sha1
           if git diff --cached --quiet; then
             echo "No changes in release.zip"
           else
