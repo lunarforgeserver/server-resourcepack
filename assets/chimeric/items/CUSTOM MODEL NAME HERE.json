@@ -1,0 +1,6 @@
+{
+  "model": {
+  "type": "minecraft:model",
+    "model": "chimeric:item/CUSTOM MODEL NAME HERE"
+  }
+}

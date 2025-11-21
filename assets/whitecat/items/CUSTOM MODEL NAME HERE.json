@@ -1,0 +1,6 @@
+{
+  "model": {
+  "type": "minecraft:model",
+    "model": "whitecat:item/CUSTOM MODEL NAME HERE"
+  }
+}

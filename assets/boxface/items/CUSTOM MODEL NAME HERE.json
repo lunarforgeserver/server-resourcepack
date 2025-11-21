@@ -1,0 +1,6 @@
+{
+  "model": {
+  "type": "minecraft:model",
+    "model": "boxface:item/CUSTOM MODEL NAME HERE"
+  }
+}

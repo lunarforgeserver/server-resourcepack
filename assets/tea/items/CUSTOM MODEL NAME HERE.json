@@ -1,0 +1,6 @@
+{
+  "model": {
+  "type": "minecraft:model",
+    "model": "tea:item/CUSTOM MODEL NAME HERE"
+  }
+}

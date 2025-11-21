@@ -1,0 +1,6 @@
+{
+  "parent": "item/ITEM TYPE HERE",
+  "textures": {
+    "layer0": "chimeric:item/CUSTOM MODEL NAME HERE"
+  }
+}
