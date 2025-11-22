@@ -1,0 +1,6 @@
+{
+  "parent": "item/ITEM TYPE HERE",
+  "textures": {
+    "layer0": "brando:item/CUSTOM MODEL NAME HERE"
+  }
+}
