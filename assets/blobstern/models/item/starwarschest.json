@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "starwarschest",
-		"particle": "starwarschest"
+		"0": "blobstern:item/starwarschest",
+		"particle": "blobstern:item/starwarschest"
 	},
 	"elements": [
 		{
