@@ -1,0 +1,93 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [60, 60],
+	"textures": {
+		"2": "avapainting",
+		"3": "637232791947784098"
+	},
+	"elements": [
+		{
+			"name": "face",
+			"from": [-15, 0, -15],
+			"to": [31, 1, 31],
+			"light_emission": 1,
+			"faces": {
+				"north": {"uv": [0, 0, 12.26667, 0.26667], "texture": "#missing"},
+				"east": {"uv": [0, 0, 12.26667, 0.26667], "texture": "#missing"},
+				"south": {"uv": [0, 0, 12.26667, 0.26667], "texture": "#missing"},
+				"west": {"uv": [0, 0, 12.26667, 0.26667], "texture": "#missing"},
+				"up": {"uv": [13.37181, 13.32724, 0.32813, 0.28356], "texture": "#2"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "North Border",
+			"from": [-16, 0, -16],
+			"to": [31, 2, -15],
+			"faces": {
+				"north": {"uv": [0, 0, 12.53333, 0.53333], "texture": "#3"},
+				"east": {"uv": [0, 0, 3.375, 1], "texture": "#missing"},
+				"south": {"uv": [0, 0, 12.53333, 0.53333], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.26667, 0.53333], "texture": "#3"},
+				"up": {"uv": [0, 0, 12.53333, 0.26667], "texture": "#3"},
+				"down": {"uv": [0, 0, 12.53333, 0.26667], "texture": "#3"}
+			}
+		},
+		{
+			"name": "South Border",
+			"from": [-15, 0, 31],
+			"to": [32, 2, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 12.53333, 0.53333], "texture": "#3"},
+				"east": {"uv": [0, 0, 0.26667, 0.53333], "texture": "#3"},
+				"south": {"uv": [0, 0, 12.53333, 0.53333], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.26667, 0.53333], "texture": "#missing"},
+				"up": {"uv": [0, 0, 12.53333, 0.26667], "texture": "#3"},
+				"down": {"uv": [0, 0, 12.53333, 0.26667], "texture": "#3"}
+			}
+		},
+		{
+			"name": "East Border",
+			"from": [31, 0, -16],
+			"to": [32, 2, 31],
+			"faces": {
+				"north": {"uv": [0, 0, 0.26667, 0.53333], "texture": "#3"},
+				"east": {"uv": [0, 0, 12.53333, 0.53333], "texture": "#3"},
+				"south": {"uv": [0, 0, 0.26667, 0.53333], "texture": "#missing"},
+				"west": {"uv": [0, 0, 12.53333, 0.53333], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.26667, 12.53333], "texture": "#3"},
+				"down": {"uv": [0, 0, 0.26667, 12.53333], "texture": "#3"}
+			}
+		},
+		{
+			"name": "West Border",
+			"from": [-16, 0, -15],
+			"to": [-15, 2, 32],
+			"faces": {
+				"north": {"uv": [0.53333, 0.53333, 0.8, 0.8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 12.53333, 0.26667], "texture": "#3"},
+				"south": {"uv": [0.53333, 0.8, 0.8, 1.06667], "texture": "#3"},
+				"west": {"uv": [0, 0.26667, 12.53333, 0.53333], "texture": "#3"},
+				"up": {"uv": [0.26667, 13.06667, 0, 0.53333], "texture": "#3"},
+				"down": {"uv": [0.53333, 0.53333, 0.26667, 13.06667], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -7.25],
+			"scale": [4, 1, 4]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [1, 2, 3, 4]
+		}
+	]
+}
