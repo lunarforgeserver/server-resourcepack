@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [60, 60],
 	"textures": {
-		"2": "avapainting",
-		"3": "637232791947784098"
+		"2": "kresh:item/avapainting",
+		"3": "kresh:item/637232791947784098"
 	},
 	"elements": [
 		{
