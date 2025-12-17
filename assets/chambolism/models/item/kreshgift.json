@@ -3,11 +3,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "kreshgiftimage",
-		"3": "kreshgift2",
-		"4": "kreshgift3",
-		"5": "kreshgift",
-		"particle": "kreshgiftimage"
+		"0": "chambolism:item/kreshgiftimage",
+		"3": "chambolism:item/kreshgift2",
+		"4": "chambolism:item/kreshgift3",
+		"5": "chambolism:item/kreshgift",
+		"particle": "chambolism:item/kreshgiftimage"
 	},
 	"elements": [
 		{
