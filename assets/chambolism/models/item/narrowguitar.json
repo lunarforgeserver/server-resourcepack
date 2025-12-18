@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "narrowguitar",
-		"1": "narrowguitar1",
-		"particle": "narrowguitar"
+		"0": "chambolism:item/narrowguitar",
+		"1": "chambolism:item/narrowguitar1",
+		"particle": "chambolism:item/narrowguitar"
 	},
 	"elements": [
 		{
