@@ -3,8 +3,8 @@
 	"credit": "New Meridia",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "chambolism:item/idlava",
-		"1": "chambolism:item/Ava.png",
+		"0": "chambolism:item/Ava",
+		"1": "chambolism:item/idlava",
 		"particle": "chambolism:item/idlava"
 	},
 	"elements": [
