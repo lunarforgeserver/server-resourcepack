@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "chambolism:item/idlava",
-		"1": "chambolism:item/Ava",
+		"1": "chambolism:item/ava",
 		"particle": "chambolism:item/idlava"
 	},
 	"elements": [
