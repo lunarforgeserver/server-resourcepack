@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "chambolism:item/avalicense",
-		"2": "chambolism:item/avalicenseimage",
+		"1": "chambolism:item/avalicenseimage",
+		"2": "chambolism:item/avalicense",
 		"particle": "chambolism:item/idlava"
 	},
 	"elements": [
