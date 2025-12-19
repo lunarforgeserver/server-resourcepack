@@ -1,11 +1,11 @@
 {
 	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
+	"credit": "New Meridia",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/idlava",
-		"1": "Ava",
-		"particle": "block/idlava"
+		"0": "chambolism:item/idlava",
+		"1": "chambolism:item/Ava",
+		"particle": "chambolism:item/idlava"
 	},
 	"elements": [
 		{
