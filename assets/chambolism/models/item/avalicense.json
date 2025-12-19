@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "Minecraft/Lunar Forge stuff/LORE/ID Licenses/idlavaimage",
-		"2": "Minecraft/Lunar Forge stuff/LORE/ID Licenses/idlava",
-		"particle": "Minecraft/Lunar Forge stuff/LORE/ID Licenses/idlava"
+		"1": "chambolism:item/avalicense",
+		"2": "chambolism:item/avalicenseimage",
+		"particle": "chambolism:item/idlava"
 	},
 	"elements": [
 		{
