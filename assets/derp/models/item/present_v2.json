@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "derp:item/present_v2",
+		"1": "derp:item/present_v2",
 		"particle": "derp:item/present_v2"
 	},
 	"elements": [
