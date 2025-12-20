@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Visit §2Texture-Packs.com §rfor the best packs & shaders!",
+    "description": "Custom resources for custom models and banner text datapack",
     "min_format": [69, 0],
     "max_format": [2147483647, 0]
   }
