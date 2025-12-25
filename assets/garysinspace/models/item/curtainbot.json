@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "garysinspace:item/curtainmid",
-		"particle": "garysinspace:item/curtainmid"
+		"0": "garysinspace:item/curtainbot",
+		"particle": "garysinspace:item/curtainbot"
 	},
 	"elements": [
 		{
