@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/mi",
-		"particle": "block/mi"
+		"0": "garysinspace:item/mic",
+		"particle": "garysinspace:item/mic"
 	},
 	"elements": [
 		{
