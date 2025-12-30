@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/fnaf",
-		"particle": "block/fnaf"
+		"0": "garysinspace:item/fnaf",
+		"particle": "garysinspace:item/fnaf"
 	},
 	"elements": [
 		{
