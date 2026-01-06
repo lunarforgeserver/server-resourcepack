@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Mooncake1",
-		"particle": "Mooncake1"
+		"0": "hougen:item/Mooncake1",
+		"particle": "hougen:item/Mooncake1"
 	},
 	"elements": [
 		{
