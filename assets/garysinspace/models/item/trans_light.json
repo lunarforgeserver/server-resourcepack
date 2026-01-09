@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trans_light",
-		"particle": "trans_light"
+		"0": "garysinspace:item/trans_light",
+		"particle": "garysinspace:item/trans_light"
 	},
 	"elements": [
 		{
