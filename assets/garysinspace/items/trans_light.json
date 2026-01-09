@@ -1,6 +1,6 @@
 {
   "model": {
   "type": "minecraft:model",
-    "model": "garysinspace:item/trans_light"
+    "model": "garysinspace:item/test_light"
   }
 }
