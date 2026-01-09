@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "test_light",
-		"particle": "test_light"
+		"0": "garysinspace:item/test_light",
+		"particle": "garysinspace:item/test_light"
 	},
 	"elements": [
 		{
