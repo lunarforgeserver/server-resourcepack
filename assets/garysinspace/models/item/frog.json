@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/frog",
-		"particle": "block/frog"
+		"0": "garysinspace:item/frog",
+		"particle": "garysinspace:item/frog"
 	},
 	"elements": [
 		{
