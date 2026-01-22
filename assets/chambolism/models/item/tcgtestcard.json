@@ -6,7 +6,7 @@
 		"0": "chambolism:item/tcgtestcardfront",
 		"1": "chambolism:item/tcgtestcardback",
 		"2": "chambolism:item/tcgtestcardside",
-		"particle": "chambolism:item/tcgtestcardfront"
+		"particle": "chambolism:item/tcgtestcard"
 	},
 	"elements": [
 		{
