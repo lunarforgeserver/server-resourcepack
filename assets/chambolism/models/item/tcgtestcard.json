@@ -4,8 +4,8 @@
 	"texture_size": [32, 48],
 	"textures": {
 		"1": "chambolism:item/tcgtestcard",
-		"2": "chambolism:item/tcgtestcard2",
-		"3": "chambolism:item/tcgtestcard3",
+		"2": "chambolism:item/tcgtestcard3",
+		"3": "chambolism:item/tcgtestcard2",
 		"particle": "chambolism:item/tcgtestcard"
 	},
 	"elements": [
