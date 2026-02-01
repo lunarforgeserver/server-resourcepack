@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/shelfshroom",
-		"particle": "block/shelfshroom"
+		"0": "garysinspace:item/shelfshroom",
+		"particle": "garysinspace:item/shelfshroom"
 	},
 	"elements": [
 		{
