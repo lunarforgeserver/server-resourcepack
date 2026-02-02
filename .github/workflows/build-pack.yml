@@ -12,7 +12,7 @@ jobs:
   build:
     # Avoid running when the commit is from this workflow itself
     if: "!startsWith(github.event.head_commit.message, 'Update release.zip')"
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
