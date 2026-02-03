@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "witchhat",
-		"particle": "witchhat"
+		"0": "garysinspace:item/witchhat",
+		"particle": "garysinspace:item/witchhat"
 	},
 	"elements": [
 		{
