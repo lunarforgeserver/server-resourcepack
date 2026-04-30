@@ -151,19 +151,19 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 60, 0],
+			"rotation": [180, 60, 0],
 			"translation": [11, 6, -2]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, 60, 0],
+			"rotation": [180, 60, 0],
 			"translation": [3, 6, 12]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -90, 25],
+			"rotation": [180, -90, 25],
 			"translation": [-3, 7, 5.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 90, -25],
+			"rotation": [180, 90, -25],
 			"translation": [13, 7, 5.75]
 		},
 		"ground": {
