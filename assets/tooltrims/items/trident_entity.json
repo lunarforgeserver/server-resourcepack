@@ -2,12 +2,12 @@
   "parent": "minecraft:item/trident_in_hand",
   "display": {
     "thirdperson_righthand": {
-      "rotation": [0, 0, 0],
+      "rotation": [0, 180, 0],
       "translation": [0, 0, 0],
       "scale": [1, 1, 1]
     },
     "firstperson_righthand": {
-      "rotation": [0, 0, 0],
+      "rotation": [0, 180, 0],
       "translation": [0, 0, 0],
       "scale": [1, 1, 1]
     }
