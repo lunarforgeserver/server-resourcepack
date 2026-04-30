@@ -2,44 +2,37 @@
   "model": {
     "type": "minecraft:select",
     "property": "component",
+    "component": "painting/variant",
     "cases": [
       {
         "model": {
           "type": "model",
-          "model": "tooltrims:item/display_toolsmithing_table"
+          "model": "tooltrims:item/linear_template"
         },
-        "when": "tooltrims:a_toolsmithing_table"
+        "when": "tooltrims:a_linear_template"
       },
       {
         "model": {
           "type": "model",
-          "model": "tooltrims:item/linear_tool_trim_smithing_template"
+          "model": "tooltrims:item/tracks_template"
         },
-        "when": "tooltrims:b_linear_tool_trim_smithing_template"
+        "when": "tooltrims:b_tracks_template"
       },
       {
         "model": {
           "type": "model",
-          "model": "tooltrims:item/tracks_tool_trim_smithing_template"
+          "model": "tooltrims:item/frost_template"
         },
-        "when": "tooltrims:c_tracks_tool_trim_smithing_template"
+        "when": "tooltrims:c_frost_template"
       },
       {
         "model": {
           "type": "model",
-          "model": "tooltrims:item/frost_tool_trim_smithing_template"
+          "model": "tooltrims:item/charge_template"
         },
-        "when": "tooltrims:d_frost_tool_trim_smithing_template"
-      },
-      {
-        "model": {
-          "type": "model",
-          "model": "tooltrims:item/charge_tool_trim_smithing_template"
-        },
-        "when": "tooltrims:e_charge_tool_trim_smithing_template"
+        "when": "tooltrims:d_charge_template"
       }
     ],
-    "component": "painting/variant",
     "fallback": {
       "type": "minecraft:model",
       "model": "minecraft:item/painting"

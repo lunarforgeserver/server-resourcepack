@@ -1,75 +1,65 @@
 {
    "providers": [
       {
+         "type": "reference",
+         "id": "tooltrims:blank"
+      },
+
+
+      {
          "type": "space",
          "advances": {
-            "\u3000": -8
+            "\uE035": -35
          }
       },
       {
          "type": "space",
          "advances": {
-            "\u3001": -89
+            "\uE034": -34
          }
       },
       {
          "type": "space",
          "advances": {
-            "\u3002": -94
+            "\uE005": -5
          }
       },
+
+      
       {
          "type": "bitmap",
-         "file": "tooltrims:item/gui/toolsmithing_table.png",
-         "ascent": 13,
-         "height": 256,
-         "chars": [
-            "\u3100"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "tooltrims:font/english/tooltip_toolsmithing_table.png",
+         "file": "tooltrims:font/english/tooltip_linear_template.png",
          "ascent": 33,
-         "height": 44,
+         "height": 78,
          "chars": [
-            "\u3101"
+            "\uD000"
          ]
       },
       {
          "type": "bitmap",
-         "file": "tooltrims:font/english/tooltip_linear_tool_trim_smithing_template.png",
-         "ascent": 43,
-         "height": 54,
+         "file": "tooltrims:font/english/tooltip_tracks_template.png",
+         "ascent": 33,
+         "height": 78,
          "chars": [
-            "\u3102"
+            "\uD001"
          ]
       },
       {
          "type": "bitmap",
-         "file": "tooltrims:font/english/tooltip_tracks_tool_trim_smithing_template.png",
-         "ascent": 43,
-         "height": 54,
+         "file": "tooltrims:font/english/tooltip_charge_template.png",
+         "ascent": 33,
+         "height": 78,
          "chars": [
-            "\u3103"
+            "\uD002"
          ]
       },
       {
          "type": "bitmap",
-         "file": "tooltrims:font/english/tooltip_charge_tool_trim_smithing_template.png",
-         "ascent": 43,
-         "height": 54,
+         "file": "tooltrims:font/english/tooltip_frost_template.png",
+         "ascent": 33,
+         "height": 78,
          "chars": [
-            "\u3104"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "tooltrims:font/english/tooltip_frost_tool_trim_smithing_template.png",
-         "ascent": 43,
-         "height": 54,
-         "chars": [
-            "\u3105"
+            "\uD003"
          ]
       }
    ]

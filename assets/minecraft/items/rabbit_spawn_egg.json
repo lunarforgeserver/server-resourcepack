@@ -5,10 +5,10 @@
     "fallback": {
       "type": "minecraft:model",
       "model": "minecraft:item/rabbit_spawn_egg"
-  },
-  "property": "minecraft:custom_model_data",
-  "entries": [
-      {"model": {"type": "minecraft:model", "model": "tooltrims:item/display_toolsmithing_table"}, "threshold": 314001.0}
+    },
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {"model": {"type": "minecraft:model", "model": "tooltrims:item/migration/toolsmithing_table"}, "threshold": 314001.0}
     ]
   }
 }

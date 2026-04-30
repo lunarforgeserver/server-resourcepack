@@ -1,27 +1,19 @@
 {
-    "block.toolsmithing_table.name" : "Iнструментальний Стiл",
+    "tooltrims.title": "Tool Trims",
+
     "advancements.adventure.shiny_tools.title": "Блищи по новому!",
     "advancements.adventure.shiny_tools.description": "Нанесіть Iнструментальний Шаблон на інструмент з допомогою Iнструментального Столу",
     "advancements.adventure.tools_of_all_styles.title": "Інструменти всіх стилів",
     "advancements.adventure.tools_of_all_styles.description": "Нанеси кожен Iнструментальний Шаблон хоча б один раз",
-    "item.tooltrims.smithing_template.tool_trim.applies_to": "Зброя та iнструменти",
-    "tool_trim_pattern.tooltrims.linear": "Орнамент «Лiнiя»",
-    "tool_trim_pattern.tooltrims.tracks": "Орнамент «Рейка»",
-    "tool_trim_pattern.tooltrims.charge": "Орнамент «Заряд»",
-    "tool_trim_pattern.tooltrims.frost": "Орнамент «Мороз»",
-    "item.tooltrims.smithing_template": "Iнстументальний шаблон",
-    "item.tooltrims.smithing_template.applies_to": "Застосовується до:",
-    "item.tooltrims.smithing_template.tool_trim.ingredients": "Злитки та кристали",
-    "item.tooltrims.smithing_template.ingredients": "Складники:",
-    "item.tooltrims.smithing_template.upgrade": "Покращення: ",
-    "trim_material.tooltrims.amethyst": "Аметистовi",
-    "trim_material.tooltrims.copper": "Мiднi",
-    "trim_material.tooltrims.diamond": "Алмазнi",
-    "trim_material.tooltrims.emerald": "Смарагдовi",
-    "trim_material.tooltrims.gold": "Золотi",
-    "trim_material.tooltrims.iron": "Залiзнi",
-    "trim_material.tooltrims.lapis": "Лазуритовi",
-    "trim_material.tooltrims.netherite": "Незеритовi",
-    "trim_material.tooltrims.quartz": "Кварцевi",
-    "trim_material.tooltrims.redstone": "Редстоуновi"
+
+    "template.tooltrims.applies_to": "Зброя та iнструменти",
+    "trim_pattern.tooltrims.linear": "Орнамент «Лiнiя»",
+    "trim_pattern.tooltrims.tracks": "Орнамент «Рейка»",
+    "trim_pattern.tooltrims.charge": "Орнамент «Заряд»",
+    "trim_pattern.tooltrims.frost": "Орнамент «Мороз»",
+
+    "tooltip.linear_template": "Linear Tool Trims Smithing Template\uE035\uD000\uE005",
+    "tooltip.tracks_template": "Tracks Tool Trims Smithing Template\uE035\uD001\uE005",
+    "tooltip.charge_template": "Charge Tool Trims Smithing Template\uE035\uD002\uE005",
+    "tooltip.frost_template": "Frost Tool Trims Smithing Template\uE034\uD003\uE005"
 }
