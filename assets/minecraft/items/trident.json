@@ -72,8 +72,11 @@
 
 "type": "minecraft:range_dispatch",
 "fallback": {
-  "type": "minecraft:model",
-  "model": "minecraft:item/trident"
+  "type": "minecraft:special",
+  "base": "minecraft:item/trident_in_hand",
+  "model": {
+    "type": "minecraft:trident"
+  }
 },
 "property": "minecraft:custom_model_data",
 "entries": [
@@ -195,11 +198,8 @@
 
 "type": "minecraft:select",
 "fallback": {
-    "type": "minecraft:special",
-"base": "minecraft:item/trident_in_hand",
-"model": {
-  "type": "minecraft:trident"
-}
+  "type": "minecraft:model",
+  "model": "minecraft:item/trident"
 },
 "property": "minecraft:component",
 "component": "minecraft:trim",
