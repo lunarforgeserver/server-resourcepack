@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "immortal",
-		"particle": "immortal"
+		"0": "chambolism:item/immortal",
+		"particle": "chambolism:item/immortal"
 	},
 	"elements": [
 		{
