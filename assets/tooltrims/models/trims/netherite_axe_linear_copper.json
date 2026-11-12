@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/netherite_axe",
-    "textures": {
-        "layer0": "minecraft:item/netherite_axe",
-        "layer1": "tooltrims:trims/items/netherite_axe_linear_copper"
-    }
-}
